@@ -441,15 +441,7 @@ _(𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)_
 ° ඬ⃟👑 _${usedPrefix}addcmd *<texto> <responder a sticker/imagen>*_
 ° ඬ⃟👑 _${usedPrefix}delcmd *<responder a sticker/imagen con comando o texto asignado>*_
 
-*<𝕄𝔸𝕋𝔸 𝕎ℍ𝔸𝕋𝕊𝔸ℙℙ - 𝕍𝕀ℝ𝕌𝕊/>*
 
-° ඬ⃟☠ _${usedPrefix}crash𝟷_
-° ඬ⃟☠ _${usedPrefix}crash2_
-° ඬ⃟☠ _${usedPrefix}crash3_
-° ඬ⃟☠ _${usedPrefix}crash4_
-° ඬ⃟☠ _${usedPrefix}crash5_
-° ඬ⃟☠ _${usedPrefix}crash6_
-° ඬ⃟☠ _${usedPrefix}crash7_
 `.trim()
 let buttons = [
 { buttonId: '#estado', buttonText: { displayText: '📮 HOLA 📮' }, type: 1 },
