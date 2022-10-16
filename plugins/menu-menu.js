@@ -453,7 +453,7 @@ _(𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)_
 `.trim()
 let buttons = [
 { buttonId: '#estado', buttonText: { displayText: '📮 HOLA 📮' }, type: 1 },
-{ buttonId: '#speedtest', buttonText: { displayText: '🌹 Miau 🌹' }, type: 1 }]
+{ buttonId: '#infobot', buttonText: { displayText: '📮 Miau-Info 📮' }, type: 1 }]
 //{ buttonId: '#infobot', buttonText: { displayText: '🐾 𝙸𝙽𝙵𝙾𝙱𝙾𝚃 🐾' }, type: 1 }]
 let buttonMessage = {
 image: pp,
